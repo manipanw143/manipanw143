@@ -6,14 +6,12 @@
 
 🚀 Building intelligent testing platforms, mobile apps, and automation solutions  
 📍 Bengaluru, India  
-📧 [manishpdeveloper44@gmail.com](mailto:manishpdeveloper44@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/manish-panwar-b46a9b242/) | [GitHub](https://github.com/manipanw143) | [YouTube: BeCoders](https://www.youtube.com/@BeCoders)
 
 ---
 
 ## 💼 Experience
 
-### **Lead Software Development Engineer – EMEELAN Pvt. Ltd. (June 2023 – Present)**
+### **Full Stack Developer – EMEELAN Pvt. Ltd. (June 2023 – Present)**
 - Built an AI-driven API testing platform using React, Flask, and PostgreSQL.
 - Integrated Ollama LLMs for auto-generating test cases from Swagger specs.
 - Added performance testing (K6), security scanning (OWASP ZAP), and real-time analytics (ELK stack).
