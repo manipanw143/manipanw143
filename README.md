@@ -41,3 +41,16 @@
 - OOP, System Design, Agile Methodology
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manipanw143&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manipanw143&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=manipanw143&theme=tokyonight&hide_border=true)
+
+![Contribution Snake](https://raw.githubusercontent.com/manipanw143/manipanw143/output/github-contribution-grid-snake.svg)
+
+</div>
+
