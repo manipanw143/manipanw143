@@ -1,6 +1,3 @@
-<!-- Profile Image -->
-![Manish Panwar](https://github.com/manipanw143/your-image-path.png) <!-- Replace with actual GitHub image URL -->
-
 # 👋 Hi, I'm Manish Panwar
 
 A passionate **Full Stack Developer** from Bangalore 🚀  
@@ -10,7 +7,7 @@ A passionate **Full Stack Developer** from Bangalore 🚀
 
 ## 🌟 About Me
 
-Full-stack developer at Emeelan Pvt Ltd. Architected an LLM-powered API test platform generating tests from Swagger specs with K6/OWASP ZAP/ELK integration. Developed full-stack applications including a 5,000+ user matrimonial app (React Native/RBAC/real-time GPS chat) and jewelry billing invoice system. Created a real-time drowsiness detector using OpenCV/Streamlit. Skilled in Java/Python/JavaScript, AWS, and DevOps with strong AI/ML integration capabilities across test and application platforms.
+Full-stack developer at Emeelan Pvt Ltd. Architected an LLM-powered API test platform generating tests from Swagger. Developed full-stack applications including a 5,000+ user matrimonial app (React Native/RBAC/real-time GPS chat) and jewelry billing invoice system. Created a real-time drowsiness detector using OpenCV/Streamlit. Skilled in Java/Python/JavaScript, AWS, and DevOps with strong AI/ML integration capabilities across test and application platforms.
 
 ## 🧠 Tech Stack
 
