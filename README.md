@@ -1,64 +1,46 @@
-![Manish Panwar](https://github.com/manipanw143/your-image-path.png) <!-- Replace with actual GitHub image link -->
+<!-- Profile Image -->
+![Manish Panwar](https://github.com/manipanw143/your-image-path.png) <!-- Replace with actual GitHub image URL -->
 
 # 👋 Hi, I'm Manish Panwar
 
-**Lead Software Development Engineer | Full Stack Developer | AI Enthusiast**
-
-🚀 Building intelligent testing platforms, mobile apps, and automation solutions  
-📍 Bengaluru, India  
+A passionate **Full Stack Developer** from Bangalore 🚀  
+🔗 [Portfolio](https://manishp.vercel.app) • [GitHub](https://github.com/manipanw143) • [LinkedIn](https://linkedin.com/in/manish-panwar-b46a9b242)
 
 ---
 
-## 💼 Experience
+## 🌟 About Me
 
-### **Full Stack Developer – EMEELAN Pvt. Ltd. (June 2023 – Present)**
-- Built an AI-driven API testing platform using React, Flask, and PostgreSQL.
+Full-stack developer at Emeelan Pvt Ltd. Architected an LLM-powered API test platform generating tests from Swagger specs with K6/OWASP ZAP/ELK integration. Developed full-stack applications including a 5,000+ user matrimonial app (React Native/RBAC/real-time GPS chat) and jewelry billing invoice system. Created a real-time drowsiness detector using OpenCV/Streamlit. Skilled in Java/Python/JavaScript, AWS, and DevOps with strong AI/ML integration capabilities across test and application platforms.
 
-### **Full Stack Developer – EMEELAN (June 2023 – April 2024)**
-- Developed a matrimonial app used by 5,000+ users with role-based access (RBAC) and real-time chat (React Native).
-- Built job application portal features like filters and job listings.
+## 🧠 Tech Stack
 
-### **Invoice Generator System (April 2024 – June 2024)**
-- Built an admin dashboard to manage invoices, products, and tax configurations for jewelry billing.
+### Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### **Drowsy System (Nov 2022 – March 2023)**
-- Built a real-time drowsiness detection system using OpenCV + Streamlit.
-- Audio-visual alerts and real-time video processing with multithreading.
-
----
-
-## 🛠️ Skills
-
-### Languages
-- Java, Python, JavaScript (ES6), HTML/CSS
-
-### Frameworks & Tools
-- ReactJS, React Native, Redux, Spring Boot, Node.js, Express, Strapi
-- Docker, Git, AWS (EC2, S3), ELK Stack, Postman, Android Studio, Jest, Karate
-- MySQL, PostgreSQL, PyCharm, IntelliJ, VSCode
-
-### Concepts
-- OOP, System Design, Agile Methodology
+### Frameworks & Tools  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+### 🔧 Frameworks & Dev Tools
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manipanw143&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manipanw143&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=manipanw143&theme=tokyonight)](https://git.io/streak-stats)
-
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=manipanw143&theme=gruvbox&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <img src="https://metrics.lecoq.io/manipanw143?template=classic&isocalendar=1&languages=1&activity=1&followup=1&stars=1&lines=1" alt="GitHub Metrics"/>
-
-  ![Contribution Snake](https://raw.githubusercontent.com/manipanw143/manipanw143/output/github-contribution-grid-snake.svg)
-
-</p>
-
+```js
+const skills = {
+  languages: ["Java", "Python", "JavaScript"],
+  frontend: ["React", "Redux", "HTML5", "CSS3"],
+  backend: ["Flask", "Spring Boot", "Strapi", "Node.js"],
+  database: ["PostgreSQL", "MySQL"],
+  devOps: ["Docker", "AWS", "ELK", "CI/CD"],
+  tools: ["VSCode", "Postman", "Jest", "Karate"]
+};
