@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Manish Panwar
 
 A passionate **Full Stack Developer** from Bangalore 🚀  
-🔗 [Portfolio](https://manishp.vercel.app) • [GitHub](https://github.com/manipanw143) • [LinkedIn](https://linkedin.com/in/manish-panwar-b46a9b242)
 
 ---
 
